@@ -27,6 +27,7 @@ data path are defined as follows:
 - tensorflow 1.9.0
 - Pillow 3.1.2
 - opencv-python 3.4.1.15
+- keras_efficientnets
 
 ### Running operation:
 just run python run.py
