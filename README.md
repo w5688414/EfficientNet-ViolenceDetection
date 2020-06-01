@@ -7,6 +7,7 @@
 + 主体部分主要来自于github的一个项目，运行也挺顺利的，所以我也就把握改的代码给开源出来，供其他人来参考
 + 尝试了很多主流的分类模型来替换ResNet部分，发现EfficientNet表现得很稳定，参数量还比残差等网络小很多，比现有的MobileNet,ShuffleNet这些精度更高，所以是一个折中的选择。
 + 加入了注意力机制，是一个小小的尝试，发现效果更好一点，看来是加对了，哈哈哈
++ 还加了很多传统方法的对比实验，有兴趣的人可以研究一下
 
 ### Architecture structure
 ![alt text](https://github.com/liorsidi/ViolenceDetection_CNNLSTM/blob/master/images/Architecture.jpeg)
